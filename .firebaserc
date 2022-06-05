@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-demos"
-  }
+    "default": "shinchan-chat",
+    "y": "shinchan-chat",
+    ".firebaserc": "shinchan-chat"
+  },
+  "targets": {}
 }
